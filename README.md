@@ -12,6 +12,7 @@ An end-to-end Excel accounting workbook for a hypothetical coffee shop, demonstr
 * **Full Accounting Cycle:** Shows the direct link between daily bookkeeping entries and high-level financial reporting.
 * **Dynamic Formulas:** Built with standard Excel lookup and aggregation formulas (`SUMIFS`, `INDEX/MATCH`, etc.) to ensure financial statements automatically update as ledger entries change.
 * **Balanced Financials:** Structured to maintain the fundamental accounting equation ($Assets = Liabilities + Equity$) and cross-statement consistency.
+* * **VBA Macros:** The general ledger has VBA macros for safe double-entry accounting and to show/hide the three 3 statesments for easy viewing.
 
 ## 🚀 How to Use
 1. Clone the repository or download the `.xlsx` file directly.
